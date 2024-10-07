@@ -1,2 +1,2 @@
-# Produc-tStar-Data-Science
+# ProductStar-Data-Science
 Repository for studying DataScience
